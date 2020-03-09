@@ -1,5 +1,5 @@
 /* write your override styles here */
-#wall div, #tag-2, #tag-3 {
+#wall > div id {
   display: none;
 }
 
